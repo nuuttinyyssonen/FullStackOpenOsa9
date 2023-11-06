@@ -1,6 +1,7 @@
 {
     "extends": [
       "eslint:recommended",
+      "@typescript-eslint/parser",
       "plugin:@typescript-eslint/recommended",
       "plugin:@typescript-eslint/recommended-requiring-type-checking"
     ],

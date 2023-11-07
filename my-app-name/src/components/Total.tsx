@@ -6,7 +6,7 @@ const Total = ({total}: TotalProps) => {
 
     return (
         <div>
-            <p>Number of exercises {total}</p>
+            <h2>Number of exercises {total}</h2>
         </div>
     )
 }
